@@ -21,6 +21,7 @@ Data Visualization & Storytelling: Tableau
 ### How to reach me:
 - LinkedIn: www.linkedin.com/in/sarah-moscoso
 - Mail: sarahmoscoso15@gmail.com
+- Github: https://github.com/saramozun
 <!--
 **saramozun/saramozun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
