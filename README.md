@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, I am Sarah 👋
 
+### I'm currently learning data analytics
+
+### How to reach me:
+- LinkedIn: www.linkedin.com/in/sarah-moscoso
+- Mail: sarahmoscoso15@gmail.com
 <!--
 **saramozun/saramozun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
