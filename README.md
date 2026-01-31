@@ -1,6 +1,6 @@
 # Hi, I am Sarah 👋
 
-### I'm currently learning data analytics
+### I'm currently a International Relations student with a background in data analysis. I am passionate about analyzing data within a broader social or political context. 📊🌎
 
 ## Technical Skills
 Data Analysis & Management: Excel / SQL / Python / R
