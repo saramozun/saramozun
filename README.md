@@ -1,15 +1,17 @@
 # Hi, I am Sarah 👋
-💻🔍
-### I'm currently a International Relations student with a background in data analysis. I am passionate about analyzing data within a broader social or political context. 📊🌎
+
+### I'm currently a International Relations student 📊🌎 with a background in data analysis 💻🔍. I am passionate about analyzing data within a broader social or political context. <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/b5326367-c560-470d-b88e-0dde658873d2" />
+
 
 ## 🛠️🧰Technical Skills
 Data Analysis & Management: Excel / SQL / Python / R
 
-Data Visualization & Storytelling: Tableau
+Data Visualization & Storytelling: Tableau <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/64091578-d07e-4335-9f7b-612d7562a2df" />
 
-## Soft Skills 💻🔍⭐❤️💎
-- Analytical Thinking (Pensamiento analítico)
-- Problem Solving (Resolución de problemas)
+
+## Soft Skills 💎
+- <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/fa23e708-0fd3-4f8f-a962-7390cf35a702" /> Analytical Thinking (Pensamiento analítico)
+- ⭐ Problem Solving (Resolución de problemas)
 - Effective Communication (Comunicación efectiva)
 - Teamwork (Trabajo en equipo)
 - Results-Oriented (Orientación a resultados)
