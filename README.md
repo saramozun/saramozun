@@ -19,9 +19,11 @@ Data Visualization & Storytelling: Tableau
 - Process Optimization (Optimización de procesos)
 
 ### How to reach me:
-- LinkedIn: www.linkedin.com/in/sarah-moscoso
-- Mail: sarahmoscoso15@gmail.com
-- Github: https://github.com/saramozun
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/673b1d71-9480-49d5-81a8-7e2b05bf1b68" />
+LinkedIn: www.linkedin.com/in/sarah-moscoso
+- 📧Mail: sarahmoscoso15@gmail.com
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/46f13b20-08c4-4389-8d9e-88b6c0dd61ef" />
+Github: https://github.com/saramozun
 <!--
 **saramozun/saramozun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
