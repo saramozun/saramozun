@@ -1,4 +1,6 @@
-![Header](./github-header-banner.png)
+--- ![Header](./github-header-banner.png)
+
+<img src="github-header-banner.png" width="100%" alt="Data Analyst Header">
 
 # Hello, I am Sarah Moscoso 💗☕👋
 
