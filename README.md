@@ -11,10 +11,10 @@
 ## Technical Skills (STACK)🛠️🧰
 
 #### Data Analysis & Management: 
-- Excel<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a6c52da0-6dce-42c0-8449-04ebb4a96b5d" /> / 
-- SQL<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d84344ac-d367-44d7-b057-f465f7610ad8" /> / 
-- Python<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6a923ebb-f8be-4c99-a4f1-a582a11ba7a7" /> / 
-- R<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/94c1ec5c-7496-46dc-ab15-8a61fbd47750" />
+- Excel <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a6c52da0-6dce-42c0-8449-04ebb4a96b5d" />  
+- SQL <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d84344ac-d367-44d7-b057-f465f7610ad8" /> 
+- Python <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6a923ebb-f8be-4c99-a4f1-a582a11ba7a7" />  
+- R
 
 #### Data Visualization & Storytelling: 
 - Tableau <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/64091578-d07e-4335-9f7b-612d7562a2df" />
