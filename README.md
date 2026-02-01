@@ -1,6 +1,6 @@
 <img src="github-header-banner.png" width="100%" alt="Data Analyst Header">
 
-# Hello, I am Sarah Moscoso 💗☕👋
+# Hello, I'm Sarah 💗☕👋
 
 ### I'm currently a International Relations student 📊🌎 with a background in data analysis 💻🔍. I am passionate about analyzing data within a broader social or political context. <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b5326367-c560-470d-b88e-0dde658873d2" />
 
@@ -18,13 +18,13 @@ Data Visualization & Storytelling: Tableau <img width="20" height="20" alt="imag
 ## Soft Skills 💎
 - <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/fa23e708-0fd3-4f8f-a962-7390cf35a702" /> Analytical Thinking (Pensamiento analítico)
 - ⭐ Problem Solving (Resolución de problemas)
-- Effective Communication (Comunicación efectiva)
+- 📣 Effective Communication (Comunicación efectiva)
 - 🚀 Teamwork (Trabajo en equipo)
-- Results-Oriented (Orientación a resultados)
-- Organization (Organización)
+- ✅ Results-Oriented (Orientación a resultados)
+- 💥 Organization (Organización)
 - 🦾 Proactivity (Proactividad)
-- Attention to Detail (Atención al detalle)
-- Process Optimization (Optimización de procesos)
+- 🧠 Attention to Detail (Atención al detalle)
+- 🍀 Process Optimization (Optimización de procesos)
 
 ### How to reach me: 🌐
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/673b1d71-9480-49d5-81a8-7e2b05bf1b68" /> LinkedIn: www.linkedin.com/in/sarah-moscoso
