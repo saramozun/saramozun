@@ -42,10 +42,10 @@
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2d1c9963-9d98-4000-b1e9-84d001988e24" /> Gmail: sarahmoscoso15@gmail.com
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/46f13b20-08c4-4389-8d9e-88b6c0dd61ef" /> Github: https://github.com/saramozun
 
-## 🕹️Proyectos Destacados como Data Analyst Jr.
-### 🔎Análisis del Consumo Literario: Optimización de Propuesta de Valor para Startups de Libros
+# 🕹️Proyectos Destacados como Data Analyst Jr.
+### 1. Análisis del Consumo Literario: Optimización de Propuesta de Valor para Startups de Libros🔎:
 #### 🧪Análisis de bases de datos para sacar insights mediante habilidades de SQL, con el propósito de optimizar las startups de libros.
-### 💡Telecomunicaciones: Identificar Operadores Ineficaces
+### 2. Telecomunicaciones: Identificar Operadores Ineficaces💡:
 #### 📊Limpieza y visualización de datos, para identificar a los operadores ineficaces dentro de una compañía telefónica.
 <!--
 **saramozun/saramozun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
