@@ -2,7 +2,7 @@
 
 # Hello, I'm Sarah 💗☕👋
 
-### I'm currently a International Relations student 📊🌎 with a background in data analysis 💻🔍. I am passionate about analyzing data within a broader social or political context. <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b5326367-c560-470d-b88e-0dde658873d2" />
+### I'm currently an International Relations student 📊🌎 with a background in data analysis 💻🔍. I am passionate about analyzing data within a broader social or political context. <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b5326367-c560-470d-b88e-0dde658873d2" />
 
 
 ## 🎯 2026 mission, Find a part-time job i will love.
